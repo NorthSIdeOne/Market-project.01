@@ -1,0 +1,4 @@
+3
+cas_afumat branzeturi 10
+milka ciocolata 25
+salam mezeluri 15

@@ -1,0 +1,11 @@
+10
+Borsec apa 5 20 1
+Hargita apa 4 3 1
+Aqua_Carpatica apa 3 0 0
+Izvorul_Minunilor apa 7 13 1
+Sprite bauturi_carbogazoase 6 20 1
+Coca_Cola bauturi_carbogazoase 5 10 1
+Pepsi bauturi_carbogazoase 4 50 1
+Morcovi legume 5 10 1 
+Ciuperci legume 3 0 0
+Vinete legume 2 3 1

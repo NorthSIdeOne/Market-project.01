@@ -1,0 +1,12 @@
+11
+Borsec apa 2 40 1
+Hargita apa 6 3 0
+Aqua_Carpatica apa 4 10 0
+Izvorul_Minunilor apa 5 13 0
+Morcovi legume 3 10 1 
+Ciuperci legume 7 0 0
+Vinete legume 6 3 0
+Rosii legume 4 12 0
+Castraveti legume 5 5 0
+Head sampon 15 35 1
+Shoulders sampon 12 10 0

@@ -1,0 +1,9 @@
+8
+borsec apa 3 20 1
+dorna apa 4 15 0
+cascaval branzeturi 10 10 0
+telemea branzeturi 12 20 1
+banana fructe 6 20 1
+piersici fructe 8 15 0
+cola suc 5 20 1
+fanta suc 4 17 1

@@ -1,0 +1,5 @@
+4
+telemea branzeturi 10
+portocale fructe 20
+castraveti legume 15 
+crenvusti mezeluri 10

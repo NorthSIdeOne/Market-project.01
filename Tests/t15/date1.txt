@@ -1,0 +1,14 @@
+13
+Lalea flori 5 8 1
+Trandafir flori 6 11 1
+Crizantema flori 3 10 1
+Prune fructe 2 4 1
+Banane fructe 7 7 1
+Capsuni fructe 10 0 0
+Sun ulei 6 27 1
+Flora ulei 5 2 1
+Sunbathed ulei 4 12 1
+Beciul vin 8 2 1
+Domnire vin 6 7 1
+Saniuta_vin vin 4 2 0
+Lautarul vin 3 4 1

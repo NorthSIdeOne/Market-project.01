@@ -1,0 +1,7 @@
+6
+cas_afumat branzeturi 10 14 1
+milka ciocolata 5 20 1
+poiana ciocolata 4 15 0
+laura ciocolata 7 15 0
+salam mezeluri 10 10 1
+parizer mezeluri 12 10 0  

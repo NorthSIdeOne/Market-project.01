@@ -1,0 +1,8 @@
+5
+cascaval branzeturi 10 15 1
+prune fructe 6 10 0
+ardei legume 5 15 1
+salam mezeluri 15 10 1
+crenvusti mezeluri 14 10 0
+
+ 

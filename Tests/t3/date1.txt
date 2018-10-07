@@ -1,0 +1,17 @@
+16
+Borsec apa 2 40 1
+Hargita apa 2 3 1
+Aqua_Carpatica apa 3 0 0
+Izvorul_Minunilor apa 3 13 1
+Sprite bauturi_carbogazoase 2 20 1
+Coca_Cola bauturi_carbogazoase 4 10 1
+Pepsi bauturi_carbogazoase 3 50 1
+Morcovi legume 3 10 1 
+Ciuperci legume 7 0 0
+Vinete legume 6 3 1
+Rosii legume 4 12 1
+Castraveti legume 4 5 1
+Fusilli paste 4 4 1
+Farfalle paste 3 0 0
+Head sampon 15 35 1
+Shoulders sampon 12 1 1

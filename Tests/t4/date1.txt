@@ -1,0 +1,18 @@
+17
+Lalea flori 2 8 1
+Trandafir flori 6 11 1
+Crizantema flori 3 10 1
+Prune fructe 8 4 1
+Banane fructe 5 7 1
+Capsuni fructe 10 0 0
+Masca ingrijire_par 30 20 1
+Balsam ingrijire_par 14 18 1
+Cotlet_porc mezeluri 9 0 0
+Carnati_de_plescoi mezeluri 10 27 1
+Sun ulei 6 27 1
+Flora ulei 3 2 1
+Sunbathed ulei 5 12 1
+Beciul vin 40 2 1
+Domnire vin 29 7 1
+Saniuta_vin vin 10 0 0
+Lautarul vin 17 4 1

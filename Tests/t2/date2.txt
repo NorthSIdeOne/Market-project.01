@@ -1,0 +1,4 @@
+3
+cas branzeturi 3
+telemea branzeturi 1
+cartofi legume 4

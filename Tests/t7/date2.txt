@@ -1,0 +1,6 @@
+5
+mere fructe 15
+pere fructe 20
+banana fructe 10
+pepene fructe 20
+nestea suc 10

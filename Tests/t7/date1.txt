@@ -1,0 +1,8 @@
+7
+mere fructe 3 20 1
+pere fructe 4 25 0
+banana fructe 5 30 1
+pepene fructe 10 25 0
+nestea suc 5 10 1
+mirinda suc 6 15 0
+7up suc 7 30 1

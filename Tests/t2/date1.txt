@@ -1,0 +1,6 @@
+5
+cas branzeturi 10 5 1
+telemea branzeturi 12 3 0
+cascaval branzeturi 15 4 1
+cartofi legume 4 10 1
+salam mezeluri 13 7 0

@@ -1,0 +1,6 @@
+5
+borsec apa 3 15 1
+zizin apa 4 10 0
+poiana ciocolata 5 10 1
+milka ciocolata 7 10 0
+heidi ciocolata 6 10 0
